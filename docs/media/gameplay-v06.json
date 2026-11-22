@@ -1,0 +1,46 @@
+{
+  "source": "Cardputer ADV USB emulation",
+  "rom": "/GAMEBOY/GAMES/GB/Mario & Yoshi (E) [!].gb",
+  "original_boot": null,
+  "capture_current": true,
+  "boot_frames": 0,
+  "cpu_frames": 718,
+  "clock": 4194304,
+  "cycles_per_frame": 70224,
+  "audio_sample_rate": 32731,
+  "demo_inputs": [
+    {
+      "seconds": 0,
+      "buttons": 16
+    },
+    {
+      "seconds": 1.5,
+      "buttons": 32
+    },
+    {
+      "seconds": 3,
+      "buttons": 17
+    },
+    {
+      "seconds": 4.5,
+      "buttons": 33
+    },
+    {
+      "seconds": 6,
+      "buttons": 16
+    },
+    {
+      "seconds": 7.5,
+      "buttons": 32
+    },
+    {
+      "seconds": 9,
+      "buttons": 17
+    },
+    {
+      "seconds": 10.5,
+      "buttons": 33
+    }
+  ],
+  "note": "Captura USB de emulacion en Cardputer ADV. Direcciones y A enviados para mostrar movimiento; velocidad del reloj emulado conservada."
+}

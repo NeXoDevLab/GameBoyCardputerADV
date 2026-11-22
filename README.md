@@ -27,16 +27,26 @@ Las versiones de cada captura están indicadas; no son fotografías del disposit
 | **Tetris · menú de juego y música · V0.3** | **Mario & Yoshi · partida · V0.4** |
 | <img src="docs/hardware-20261122/tetris-v03-live.png" alt="Menú de Tetris con selección del tipo de juego y música" width="360"> | <img src="docs/hardware-20261122/yoshi-v04.png" alt="Partida de Mario & Yoshi en el emulador" width="360"> |
 
-### Super Chase H.Q. con el audio de V0.6
+### Partida en movimiento · Mario & Yoshi · V0.6
 
-[![Vista animada de Super Chase H.Q.; abrir el MP4 para escuchar el sonido](docs/media/superchase-v06-preview.gif)](docs/hardware-20261122/superchase-v06-2x-pcm.mp4)
+<p align="center">
+  <a href="docs/media/gameplay-v06.mp4">
+    <img src="docs/media/gameplay-v06.gif" alt="Mario & Yoshi en movimiento: desplazamientos de Mario, cambios de bandejas y caída de piezas" width="600">
+  </a>
+  <br>
+  <a href="https://github.com/NeXoDevLab/GameBoyCardputerADV/raw/refs/heads/main/docs/media/gameplay-v06.mp4"><strong>▶ Ver o descargar el vídeo con sonido · 12 segundos</strong></a>
+</p>
 
-**[▶ Ver o descargar el vídeo con sonido · 3 segundos](https://github.com/NeXoDevLab/GameBoyCardputerADV/raw/refs/heads/main/docs/hardware-20261122/superchase-v06-2x-pcm.mp4)**
+La grabación muestra una partida en marcha, con desplazamientos a izquierda y
+derecha, cambios de bandejas y caída de piezas. La vista animada es silenciosa;
+el MP4 conserva el sonido generado por V0.6. Se mantiene la velocidad del reloj
+emulado.
 
-La vista animada es silenciosa. El MP4 conserva el sonido generado con el filtro
-2x/FIR de V0.6.
-
-[▶ Vídeo adicional: arranque original y entrada a Tetris · 10 segundos](https://github.com/NeXoDevLab/GameBoyCardputerADV/raw/refs/heads/main/docs/hardware-20261122/tetris-original-boot.mp4)
+<p align="center">
+  <a href="https://github.com/NeXoDevLab/GameBoyCardputerADV/raw/refs/heads/main/docs/hardware-20261122/superchase-v06-2x-pcm.mp4">▶ Prueba de sonido: Super Chase H.Q. · V0.6 · 3 segundos</a>
+  <br>
+  <a href="https://github.com/NeXoDevLab/GameBoyCardputerADV/raw/refs/heads/main/docs/hardware-20261122/tetris-original-boot.mp4">▶ Arranque original y entrada a Tetris · 10 segundos</a>
+</p>
 
 La grabación de Tetris es histórica (V0.1), anterior a las mejoras actuales de
 audio. Los vídeos son capturas de la emulación; su sonido no es una grabación
