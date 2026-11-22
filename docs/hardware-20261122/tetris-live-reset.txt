@@ -1,0 +1,1 @@
+ERR unknown command, type 'help' for command list

@@ -1,0 +1,8 @@
+GBSET volume=104 brightness=128 wide=1 grey=1 original=1 dirty=0 last=
+GBSET volume=77 brightness=128 wide=1 grey=1 original=1 dirty=1 last=
+GBSET volume=77 brightness=180 wide=1 grey=1 original=1 dirty=1 last=
+GBSET volume=77 brightness=180 wide=0 grey=1 original=1 dirty=1 last=
+GBSET volume=77 brightness=180 wide=0 grey=0 original=1 dirty=1 last=
+GBSET volume=77 brightness=180 wide=0 grey=0 original=1 dirty=0 last=
+GB LOADED /GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb title=SUPER CHASE H.Q. rom=131072 ram=0 original=1
+GBSET volume=77 brightness=180 wide=0 grey=0 original=1 dirty=0 last=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb

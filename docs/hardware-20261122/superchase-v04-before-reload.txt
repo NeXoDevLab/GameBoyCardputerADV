@@ -1,0 +1,2 @@
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=8512 apu_us=58
+GB-ADV V0.4 frames=1730 pc=02d5 boot=0 original=1 heap=105088 cpu_us=8629 cpu_max_us=25499 lcd=6336 lcd_us=15974 packets=12655 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=53 sd_max_us=10249 cache_misses=33 audio_gap_us=23469 sample_rate=32731 ms=236040 lcdc=83 ly=144 ie=0b if=e1 ime=0

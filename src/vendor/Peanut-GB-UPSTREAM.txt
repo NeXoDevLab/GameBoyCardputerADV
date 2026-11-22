@@ -1,0 +1,6 @@
+deltabeard/Peanut-GB
+commit: d0bcca771c83a2638c93a9ae61f3d51f226dc905
+MIT; license included in source files.
+Local patch: yield at frame boundaries during HALT (including LCD off); resume clock-only until an enabled interrupt is pending.
+Integration build: peanut_core.c uses GCC -O3 for the interpreter only; other firmware keeps -Os.
+Integration patch: GB_ADV_HOT annotates the CPU/memory/video interpreter functions for ESP32 IRAM to reduce flash-cache contention with LCD/audio.

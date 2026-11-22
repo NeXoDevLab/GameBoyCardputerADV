@@ -1,0 +1,22 @@
+GB BOOT path=/GAMEBOY/DMG.ROM loaded=1 bytes=256 md5=32fbbd84168d3482956eb3c5051637f5
+GB LOADED /GAMEBOY/GAMES/GB/Tetris (W) (V1.1) [!].gb title=TETRIS rom=32768 ram=0 original=1
+GBROM 0150 c3 0c 02 cd e3 29 f0 41 e6 03 20 fa 46 f0 41 e6 03 20 fa 7e a0 c9 7b 86
+GBROM 025b 21 ff df 06 00 32 05 20 fc 21 ff cf 0e 10 06 00 32 05 20 fc 0d 20 f9 21
+GB-ADV V0.3 frames=0 pc=0000 boot=1 original=1 heap=134736 cpu_us=0 cpu_max_us=0 lcd=0 lcd_us=0 packets=0 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=3 sd_max_us=17128 cache_misses=1 audio_gap_us=0 sample_rate=32731 ms=71371 lcdc=00 ly=0 ie=00 if=e1 ime=1
+GBMEM ff80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+GB-ADV V0.3 frames=304 pc=0064 boot=1 original=1 heap=138152 cpu_us=12272 cpu_max_us=15701 lcd=151 lcd_us=16119 packets=299 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=3 sd_max_us=17128 cache_misses=1 audio_gap_us=23469 sample_rate=32731 ms=76428 lcdc=91 ly=144 ie=00 if=e1 ime=1
+GBMEM ff80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+GB-ADV V0.3 frames=602 pc=02ef boot=0 original=1 heap=138152 cpu_us=13422 cpu_max_us=38876 lcd=300 lcd_us=17724 packets=597 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=6 sd_max_us=17128 cache_misses=4 audio_gap_us=23469 sample_rate=32731 ms=81418 lcdc=d3 ly=144 ie=09 if=e1 ime=1
+GBMEM ff80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+GB-ADV V0.3 frames=904 pc=02ed boot=0 original=1 heap=138152 cpu_us=13743 cpu_max_us=38876 lcd=451 lcd_us=17558 packets=899 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=6 sd_max_us=17128 cache_misses=4 audio_gap_us=23469 sample_rate=32731 ms=86471 lcdc=d3 ly=144 ie=09 if=e1 ime=1
+GBMEM ff80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+GB-ADV V0.3 frames=1209 pc=02ef boot=0 original=1 heap=138152 cpu_us=14636 cpu_max_us=38876 lcd=603 lcd_us=18531 packets=1204 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=6 sd_max_us=17128 cache_misses=4 audio_gap_us=23469 sample_rate=32731 ms=91579 lcdc=d3 ly=144 ie=01 if=e1 ime=1
+GBMEM ff80 00 00 00 00 00 00 00 38 37 0e 00 00 00 c0 30 00 00 e8 48 38 00 00 c2 10
+GB-ADV V0.3 frames=1513 pc=02ed boot=0 original=1 heap=138424 cpu_us=16859 cpu_max_us=38876 lcd=756 lcd_us=18827 packets=1508 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=6 sd_max_us=17128 cache_misses=4 audio_gap_us=23469 sample_rate=32731 ms=96672 lcdc=d3 ly=144 ie=01 if=e1 ime=1
+GBMEM ff80 00 00 00 00 00 00 80 38 37 0e 00 00 00 c0 30 00 00 e8 48 38 00 00 c2 10
+GB-ADV V0.3 frames=1815 pc=02ef boot=0 original=1 heap=138424 cpu_us=14683 cpu_max_us=38876 lcd=907 lcd_us=18389 packets=1810 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=6 sd_max_us=17128 cache_misses=4 audio_gap_us=23469 sample_rate=32731 ms=101730 lcdc=d3 ly=144 ie=01 if=e1 ime=1
+GBMEM ff80 00 00 00 00 00 00 00 38 37 0e 00 00 00 c0 30 00 00 e8 48 38 00 00 c2 10
+GB-ADV V0.3 frames=2117 pc=02ed boot=0 original=1 heap=138152 cpu_us=14326 cpu_max_us=38876 lcd=1057 lcd_us=18437 packets=2112 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=6 sd_max_us=17128 cache_misses=4 audio_gap_us=23469 sample_rate=32731 ms=106783 lcdc=d3 ly=144 ie=01 if=e1 ime=1
+GBMEM ff80 00 00 00 00 00 00 80 38 37 0e 00 00 00 c0 30 00 00 e8 48 38 00 00 c2 10
+GB-ADV V0.3 frames=2421 pc=02ed boot=0 original=1 heap=138152 cpu_us=14338 cpu_max_us=38876 lcd=1209 lcd_us=18282 packets=2416 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=6 sd_max_us=17128 cache_misses=4 audio_gap_us=23469 sample_rate=32731 ms=111875 lcdc=d3 ly=144 ie=01 if=e1 ime=1
+GBMEM ff80 00 00 00 00 00 00 00 38 37 0e 00 00 00 c0 30 00 00 e8 48 38 00 00 c2 10

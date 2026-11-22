@@ -1,0 +1,23 @@
+.DS_Store
+.build*/
+.build*.log
+.device-backups/
+tests/.build/
+__pycache__/
+*.pyc
+*.[gG][bB]
+*.[gG][bB][cC]
+*.[rR][oO][mM]
+DMG*.bin
+*.[sS][aA][vV]
+*.[sS][aA][vV].tmp
+*.[sS][aA][vV].bak
+SETTINGS.INI*
+.env
+.env.*
+*.pem
+*.key
+
+# Raw recording intermediates remain local; retain MP4/WAV/metadata evidence.
+docs/hardware-*/*.rgb
+docs/hardware-*/*.ppm

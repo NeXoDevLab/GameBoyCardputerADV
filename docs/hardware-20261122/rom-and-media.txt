@@ -1,0 +1,8 @@
+GBCOPY OK bytes=256 source=/GAMEBOY/DMG.rom.bin target=/GAMEBOY/DMG.ROM
+GB BOOT path=/GAMEBOY/DMG.ROM loaded=1 bytes=256 md5=32fbbd84168d3482956eb3c5051637f5
+GBFILE /GAMEBOY/GAMES/GB/Mario & Yoshi (E) [!].gb
+GBFILE /GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb
+GBFILE /GAMEBOY/GAMES/GB/Tetris (W) (V1.1) [!].gb
+GBFILE /GAMEBOY/GAMES/GB/Zoop (U) [!].gb
+GBFILES END
+GB-ADV V0.1 frames=0 pc=0000 boot=0 original=1 heap=183120 cpu_us=0 cpu_max_us=0 lcd=0 lcd_us=0 packets=0 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=0 sd_max_us=0 cache_misses=0

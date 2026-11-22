@@ -1,0 +1,4 @@
+ady heap=103600 PSRAM=0 boot=1 cpu_mhz=240
+GB BOOT path=/GAMEBOY/DMG.ROM loaded=1 bytes=256 md5=32fbbd84168d3482956eb3c5051637f5
+GBSET volume=51 brightness=180 wide=0 grey=0 original=1 dirty=0 last=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb
+GB LOADED /GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb title=SUPER CHASE H.Q. rom=131072 ram=0 original=1

@@ -1,0 +1,1 @@
+GB-ADV V0.3 frames=3931 pc=17f9 boot=0 original=1 heap=138164 cpu_us=52394 cpu_max_us=92316 lcd=32590 lcd_us=20272 packets=65169 queued=3 underruns=273 dropped=0 errors=0 timeouts=0 sd_reads=4247 sd_max_us=17116 cache_misses=4239 audio_gap_us=23474 sample_rate=32731 ms=1434893 lcdc=83 ly=144 ie=09 if=e7 ime=1

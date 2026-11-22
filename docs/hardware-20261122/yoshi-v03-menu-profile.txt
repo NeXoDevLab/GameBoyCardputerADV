@@ -1,0 +1,2 @@
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Mario & Yoshi (E) [!].gb core_us=12240 apu_us=895
+GB-ADV V0.3 frames=3116 pc=4bca boot=0 original=1 heap=138152 cpu_us=13193 cpu_max_us=34471 lcd=5543 lcd_us=16942 packets=11066 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=45 sd_max_us=10242 cache_misses=12 audio_gap_us=23470 sample_rate=32731 ms=202836 lcdc=af ly=144 ie=0d if=e1 ime=1

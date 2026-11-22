@@ -1,0 +1,11 @@
+{
+  "source": "Cardputer ADV USB emulation",
+  "rom": null,
+  "original_boot": null,
+  "capture_current": true,
+  "boot_frames": 0,
+  "cpu_frames": 180,
+  "clock": 4194304,
+  "cycles_per_frame": 70224,
+  "audio_sample_rate": 32731
+}

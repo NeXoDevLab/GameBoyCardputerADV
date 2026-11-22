@@ -1,0 +1,10 @@
+{
+  "source": "Cardputer ADV USB emulation",
+  "rom": "/GAMEBOY/GAMES/GB/Tetris (W) (V1.1) [!].gb",
+  "original_boot": true,
+  "boot_frames": 333,
+  "cpu_frames": 598,
+  "clock": 4194304,
+  "cycles_per_frame": 70224,
+  "audio_sample_rate": 16365
+}

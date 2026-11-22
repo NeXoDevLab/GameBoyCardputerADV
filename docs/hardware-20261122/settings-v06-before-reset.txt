@@ -1,0 +1,7 @@
+GBSET volume=77 brightness=180 wide=0 grey=0 original=1 dirty=0 last=
+GBSET volume=104 brightness=180 wide=0 grey=0 original=1 dirty=1 last=
+GBSET volume=104 brightness=128 wide=0 grey=0 original=1 dirty=1 last=
+GBSET volume=104 brightness=128 wide=1 grey=0 original=1 dirty=1 last=
+GBSET volume=104 brightness=128 wide=1 grey=1 original=1 dirty=1 last=
+GBSET volume=104 brightness=128 wide=1 grey=1 original=1 dirty=0 last=
+GBSET volume=104 brightness=128 wide=1 grey=1 original=1 dirty=0 last=

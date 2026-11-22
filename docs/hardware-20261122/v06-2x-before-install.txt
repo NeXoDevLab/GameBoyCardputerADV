@@ -1,0 +1,2 @@
+GBPROFILE rom= core_us=0 apu_us=0
+GB-ADV V0.6 frames=0 pc=0000 boot=0 original=1 heap=105708 cpu_us=0 cpu_max_us=0 lcd=0 lcd_us=0 packets=0 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=0 sd_max_us=0 cache_misses=0 audio_gap_us=0 sample_rate=32731 ms=149810 lcdc=00 ly=0 ie=00 if=00 ime=0

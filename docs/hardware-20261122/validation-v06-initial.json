@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-22",
+  "device": "M5Stack Cardputer ADV ESP32-S3 (8 MB, no PSRAM)",
+  "boot_rom_md5": "32fbbd84168d3482956eb3c5051637f5",
+  "boot_rom_path": "/GAMEBOY/DMG.ROM",
+  "boot_source_preserved": "/GAMEBOY/DMG.rom.bin",
+  "installation": {
+    "app_offset": "0x6f0000",
+    "partition_label": "gameboy",
+    "replaced": "Amstrad CPC464 FIX12 (user authorized)",
+    "preserved": [
+      "Launcher",
+      "Bruce",
+      "RFID",
+      "microSD original files"
+    ]
+  },
+  "version": "V0.6-initial",
+  "firmware_sha256": "4329a7eb4426a3a1b1162a31d9ebfce68e6df7a90781932535da348604018a18",
+  "hardware_installed": true,
+  "original_boot_verified": true,
+  "settings_reboot_verified": true,
+  "last_game_reboot_verified": true,
+  "listener_feedback": "User reports noise during gameplay: ruido al jugar",
+  "gameplay_run_includes_user_pause": true,
+  "raw_log": "superchase-v06-live.txt"
+}

@@ -1,0 +1,6 @@
+deltabeard/minigb_apu
+commit: 344d9814c0d834faf1a26ec97b57bedddefed8aa
+MIT; license included in source files.
+Local patch: include ../core/Config.h in minigb_apu.c for shared audio settings.
+License: MIT; full notice in minigb_apu-LICENSE (authors named in upstream source).
+Local audio corrections: integer frame sample count; wide channel accumulation with 6 dB headroom; NR32 wave volume applied once with DAC normalization.

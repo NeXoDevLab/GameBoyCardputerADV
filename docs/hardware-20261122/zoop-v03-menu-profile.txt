@@ -1,0 +1,2 @@
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Zoop (U) [!].gb core_us=7872 apu_us=870
+GB-ADV V0.3 frames=6166 pc=0240 boot=0 original=1 heap=138160 cpu_us=8800 cpu_max_us=34471 lcd=3081 lcd_us=17139 packets=6153 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=31 sd_max_us=10242 cache_misses=29 audio_gap_us=23470 sample_rate=32731 ms=120282 lcdc=c3 ly=144 ie=0d if=e3 ime=1

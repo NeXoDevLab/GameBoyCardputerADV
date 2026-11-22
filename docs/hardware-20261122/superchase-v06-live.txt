@@ -1,0 +1,56 @@
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5347 apu_us=1650
+GB-ADV V0.6 frames=2203 pc=0218 boot=0 original=1 heap=104156 cpu_us=7067 cpu_max_us=30697 lcd=1100 lcd_us=17576 packets=2194 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=82377 lcdc=83 ly=144 ie=0b if=f1 ime=1
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5826 apu_us=1644
+GB-ADV V0.6 frames=2327 pc=0218 boot=0 original=1 heap=103884 cpu_us=7551 cpu_max_us=30697 lcd=1162 lcd_us=17616 packets=2318 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=84449 lcdc=83 ly=144 ie=0b if=f1 ime=1
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=12616 apu_us=1423
+GB-ADV V0.6 frames=2446 pc=13c6 boot=0 original=1 heap=103884 cpu_us=14113 cpu_max_us=30697 lcd=1222 lcd_us=17397 packets=2437 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=86444 lcdc=83 ly=144 ie=0b if=f1 ime=1
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=88465 lcdc=83 ly=144 ie=0b if=f1 ime=0
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=90476 lcdc=83 ly=144 ie=0b if=f1 ime=0
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=92522 lcdc=83 ly=144 ie=0b if=f1 ime=0
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=94558 lcdc=83 ly=144 ie=0b if=f1 ime=0
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=96604 lcdc=83 ly=144 ie=0b if=f1 ime=0
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=98650 lcdc=83 ly=144 ie=0b if=f1 ime=0
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=100706 lcdc=83 ly=144 ie=0b if=f1 ime=0
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=102722 lcdc=83 ly=144 ie=0b if=f1 ime=0
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=104758 lcdc=83 ly=144 ie=0b if=f1 ime=0
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=106799 lcdc=83 ly=144 ie=0b if=f1 ime=0
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=108835 lcdc=83 ly=144 ie=0b if=f1 ime=0
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=110856 lcdc=83 ly=144 ie=0b if=f1 ime=0
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=112897 lcdc=83 ly=144 ie=0b if=f1 ime=0
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=114938 lcdc=83 ly=144 ie=0b if=f1 ime=0
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=116974 lcdc=83 ly=144 ie=0b if=f1 ime=0
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=119015 lcdc=83 ly=144 ie=0b if=f1 ime=0
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=121056 lcdc=83 ly=144 ie=0b if=f1 ime=0
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=123102 lcdc=83 ly=144 ie=0b if=f1 ime=0
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=125118 lcdc=83 ly=144 ie=0b if=f1 ime=0
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=127144 lcdc=83 ly=144 ie=0b if=f1 ime=0
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=129180 lcdc=83 ly=144 ie=0b if=f1 ime=0
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=131226 lcdc=83 ly=144 ie=0b if=f1 ime=0
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=133252 lcdc=83 ly=144 ie=0b if=f1 ime=0
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=135293 lcdc=83 ly=144 ie=0b if=f1 ime=0
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Super Chase H.Q. (UE) [!].gb core_us=5466 apu_us=1608
+GB-ADV V0.6 frames=2549 pc=02d2 boot=0 original=1 heap=99912 cpu_us=7152 cpu_max_us=30697 lcd=1274 lcd_us=17238 packets=2541 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=41 sd_max_us=10335 cache_misses=39 audio_gap_us=23469 sample_rate=32731 ms=137349 lcdc=83 ly=144 ie=0b if=f1 ime=0

@@ -1,0 +1,12 @@
+GB BOOT path=/GAMEBOY/DMG.ROM loaded=1 bytes=256 md5=32fbbd84168d3482956eb3c5051637f5
+GB-ADV V0.1 frames=2354 pc=02ef boot=0 original=1 heap=177124 cpu_us=23258 cpu_max_us=49601 lcd=702 lcd_us=47270 packets=2354 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=6 sd_max_us=17080 cache_misses=4
+GB BOOT path=/GAMEBOY/DMG.ROM loaded=1 bytes=256 md5=32fbbd84168d3482956eb3c5051637f5
+GB-ADV V0.1 frames=2448 pc=02ed boot=0 original=1 heap=177124 cpu_us=16867 cpu_max_us=49601 lcd=733 lcd_us=47298 packets=2448 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=6 sd_max_us=17080 cache_misses=4
+GB BOOT path=/GAMEBOY/DMG.ROM loaded=1 bytes=256 md5=32fbbd84168d3482956eb3c5051637f5
+GB-ADV V0.1 frames=2540 pc=02ed boot=0 original=1 heap=177124 cpu_us=23322 cpu_max_us=49601 lcd=767 lcd_us=46672 packets=2539 queued=1 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=6 sd_max_us=17080 cache_misses=4
+GB BOOT path=/GAMEBOY/DMG.ROM loaded=1 bytes=256 md5=32fbbd84168d3482956eb3c5051637f5
+GB-ADV V0.1 frames=2632 pc=02ed boot=0 original=1 heap=177124 cpu_us=23249 cpu_max_us=49601 lcd=801 lcd_us=47365 packets=2631 queued=1 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=6 sd_max_us=17080 cache_misses=4
+GB BOOT path=/GAMEBOY/DMG.ROM loaded=1 bytes=256 md5=32fbbd84168d3482956eb3c5051637f5
+GB-ADV V0.1 frames=2724 pc=02ed boot=0 original=1 heap=177124 cpu_us=23515 cpu_max_us=49601 lcd=834 lcd_us=46997 packets=2724 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=6 sd_max_us=17080 cache_misses=4
+GB BOOT path=/GAMEBOY/DMG.ROM loaded=1 bytes=256 md5=32fbbd84168d3482956eb3c5051637f5
+GB-ADV V0.1 frames=2823 pc=02ef boot=0 original=1 heap=178152 cpu_us=23517 cpu_max_us=49601 lcd=867 lcd_us=46942 packets=2823 queued=0 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=6 sd_max_us=17080 cache_misses=4

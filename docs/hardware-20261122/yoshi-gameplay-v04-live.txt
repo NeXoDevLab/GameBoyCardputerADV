@@ -1,0 +1,24 @@
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Mario & Yoshi (E) [!].gb core_us=10889 apu_us=895
+GB-ADV V0.4 frames=4938 pc=4bca boot=0 original=1 heap=105352 cpu_us=11841 cpu_max_us=23444 lcd=2468 lcd_us=17019 packets=4925 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=8 sd_max_us=10243 cache_misses=6 audio_gap_us=23469 sample_rate=32731 ms=99049 lcdc=af ly=144 ie=0d if=e1 ime=1
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Mario & Yoshi (E) [!].gb core_us=10622 apu_us=889
+GB-ADV V0.4 frames=5182 pc=4bca boot=0 original=1 heap=105352 cpu_us=11570 cpu_max_us=23444 lcd=2590 lcd_us=17072 packets=5169 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=8 sd_max_us=10243 cache_misses=6 audio_gap_us=23469 sample_rate=32731 ms=103132 lcdc=af ly=144 ie=0d if=e1 ime=1
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Mario & Yoshi (E) [!].gb core_us=11016 apu_us=1109
+GB-ADV V0.4 frames=5425 pc=4bca boot=0 original=1 heap=105624 cpu_us=12185 cpu_max_us=23444 lcd=2712 lcd_us=17051 packets=5412 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=8 sd_max_us=10243 cache_misses=6 audio_gap_us=23469 sample_rate=32731 ms=107207 lcdc=af ly=144 ie=0d if=e1 ime=1
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Mario & Yoshi (E) [!].gb core_us=11231 apu_us=1119
+GB-ADV V0.4 frames=5667 pc=4bca boot=0 original=1 heap=105624 cpu_us=12408 cpu_max_us=23444 lcd=2833 lcd_us=17058 packets=5654 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=8 sd_max_us=10243 cache_misses=6 audio_gap_us=23469 sample_rate=32731 ms=111258 lcdc=af ly=144 ie=0d if=e1 ime=1
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Mario & Yoshi (E) [!].gb core_us=10648 apu_us=764
+GB-ADV V0.4 frames=5910 pc=4bca boot=0 original=1 heap=105352 cpu_us=11472 cpu_max_us=23444 lcd=2954 lcd_us=17101 packets=5897 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=8 sd_max_us=10243 cache_misses=6 audio_gap_us=23469 sample_rate=32731 ms=115325 lcdc=af ly=144 ie=0d if=e1 ime=1
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Mario & Yoshi (E) [!].gb core_us=10846 apu_us=722
+GB-ADV V0.4 frames=6152 pc=4bca boot=0 original=1 heap=105352 cpu_us=11627 cpu_max_us=23444 lcd=3075 lcd_us=17245 packets=6139 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=8 sd_max_us=10243 cache_misses=6 audio_gap_us=23469 sample_rate=32731 ms=119377 lcdc=af ly=144 ie=0d if=e1 ime=1
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Mario & Yoshi (E) [!].gb core_us=10721 apu_us=919
+GB-ADV V0.4 frames=6394 pc=4bca boot=0 original=1 heap=105352 cpu_us=11698 cpu_max_us=23444 lcd=3196 lcd_us=17273 packets=6381 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=8 sd_max_us=10243 cache_misses=6 audio_gap_us=23469 sample_rate=32731 ms=123428 lcdc=af ly=144 ie=0d if=e1 ime=1
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Mario & Yoshi (E) [!].gb core_us=11224 apu_us=1136
+GB-ADV V0.4 frames=6637 pc=4bca boot=0 original=1 heap=105352 cpu_us=12420 cpu_max_us=23444 lcd=3317 lcd_us=17253 packets=6624 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=8 sd_max_us=10243 cache_misses=6 audio_gap_us=23469 sample_rate=32731 ms=127495 lcdc=af ly=144 ie=0d if=e1 ime=1
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Mario & Yoshi (E) [!].gb core_us=10858 apu_us=902
+GB-ADV V0.4 frames=6880 pc=4bca boot=0 original=1 heap=105352 cpu_us=11818 cpu_max_us=23444 lcd=3439 lcd_us=17245 packets=6867 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=8 sd_max_us=10243 cache_misses=6 audio_gap_us=23469 sample_rate=32731 ms=131562 lcdc=af ly=144 ie=0d if=e1 ime=1
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Mario & Yoshi (E) [!].gb core_us=10587 apu_us=666
+GB-ADV V0.4 frames=7122 pc=4bca boot=0 original=1 heap=105352 cpu_us=11312 cpu_max_us=23444 lcd=3560 lcd_us=17322 packets=7109 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=8 sd_max_us=10243 cache_misses=6 audio_gap_us=23469 sample_rate=32731 ms=135614 lcdc=af ly=144 ie=0d if=e1 ime=1
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Mario & Yoshi (E) [!].gb core_us=10807 apu_us=935
+GB-ADV V0.4 frames=7364 pc=4bca boot=0 original=1 heap=105352 cpu_us=11802 cpu_max_us=23444 lcd=3681 lcd_us=17422 packets=7351 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=8 sd_max_us=10243 cache_misses=6 audio_gap_us=23469 sample_rate=32731 ms=139665 lcdc=af ly=144 ie=0d if=e1 ime=1
+GBPROFILE rom=/GAMEBOY/GAMES/GB/Mario & Yoshi (E) [!].gb core_us=11035 apu_us=1087
+GB-ADV V0.4 frames=7607 pc=4bca boot=0 original=1 heap=105352 cpu_us=12184 cpu_max_us=23444 lcd=3802 lcd_us=17351 packets=7594 queued=4 underruns=0 dropped=0 errors=0 timeouts=0 sd_reads=8 sd_max_us=10243 cache_misses=6 audio_gap_us=23469 sample_rate=32731 ms=143732 lcdc=af ly=144 ie=0d if=e1 ime=1

@@ -1,0 +1,12 @@
+Game Boy DMG Cardputer ADV V0.6
+Recorded (UTC): 2026-11-22T17:03:16.621041+00:00
+Application bytes: 723200
+Application SHA256: 5c241ab2895558f77208ab30c35614750b48690c0ca1c901c2294714afc67ee1
+Source manifest SHA256: d279de736380645420ab7e64573c812fcf8fa9802b06bd478a2f6cd908466dab
+Board: m5stack:esp32:m5stack_cardputer
+Core: M5Stack ESP32 3.3.10
+Options: PSRAM=disabled, FlashMode=qio, FlashSize=8M, PartitionScheme=default_8MB, USBMode=hwcdc, CDCOnBoot=cdc
+Libraries: M5Cardputer 1.1.1, M5Unified 0.2.28, M5GFX 0.2.35
+ROMs and games: not included
+Hardware validation: pending for this binary
+Original Nintendo boot ROM validation: pending for this binary

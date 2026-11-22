@@ -1,0 +1,32 @@
+GBDIR D 0 evil
+GBDIR D 0 CPC464
+GBDIR D 0 bkp
+GBDIR D 0 .Spotlight-V100
+GBDIR D 0 .fseventsd
+GBDIR D 0 GAMEBOY
+GBDIR F 1762 bruce.conf
+GBDIR D 0 BruceJS
+GBDIR D 0 BruceGPS
+GBDIR F 1451 brucePins.conf
+GBDIR D 0 BruceRF
+GBDIR D 0 BruceRFID
+GBDIR D 0 Metro
+GBDIR D 0 BruceWardriving
+GBDIR F 1037 config.conf
+GBDIR D 0 Firmware
+GBDIR D 0 portals
+GBDIR D 0 BruceEvilCreds
+GBDIR D 0 System Volume Information
+GBDIR D 0 SPECTRUM
+GBDIR END
+GBDIR F 256 DMG.rom.bin
+GBDIR F 4096 ._DMG.rom.bin
+GBDIR D 0 GAMES
+GBDIR END
+GBDIR D 0 GB
+GBDIR END
+GBDIR F 32768 Tetris (W) (V1.1) [!].gb
+GBDIR F 65536 Zoop (U) [!].gb
+GBDIR F 131072 Super Chase H.Q. (UE) [!].gb
+GBDIR F 65536 Mario & Yoshi (E) [!].gb
+GBDIR END
