@@ -16,6 +16,32 @@ de reducir a los ~32 kHz del altavoz.
 [Guía](docs/GUIA.md) · [Validación y límites](VALIDACION.md) ·
 [Firmware](firmware/README.md) · [Créditos](THIRD_PARTY_NOTICES.md)
 
+## Capturas y vídeos
+
+Imagen y audio obtenidos por USB de la emulación ejecutada en un Cardputer ADV.
+Las versiones de cada captura están indicadas; no son fotografías del dispositivo.
+
+| Arranque original · V0.6 | Super Chase H.Q. · V0.6 |
+| :---: | :---: |
+| <img src="docs/hardware-20261122/v06-2x-boot.png" alt="Logo Nintendo durante el arranque DMG original en V0.6" width="360"> | <img src="docs/media/superchase-v06.png" alt="Carrera de Super Chase H.Q. en V0.6" width="360"> |
+| **Tetris · menú de juego y música · V0.3** | **Mario & Yoshi · partida · V0.4** |
+| <img src="docs/hardware-20261122/tetris-v03-live.png" alt="Menú de Tetris con selección del tipo de juego y música" width="360"> | <img src="docs/hardware-20261122/yoshi-v04.png" alt="Partida de Mario & Yoshi en el emulador" width="360"> |
+
+### Super Chase H.Q. con el audio de V0.6
+
+[![Vista animada de Super Chase H.Q.; abrir el MP4 para escuchar el sonido](docs/media/superchase-v06-preview.gif)](docs/hardware-20261122/superchase-v06-2x-pcm.mp4)
+
+**[▶ Ver o descargar el vídeo con sonido · 3 segundos](https://github.com/NeXoDevLab/GameBoyCardputerADV/raw/refs/heads/main/docs/hardware-20261122/superchase-v06-2x-pcm.mp4)**
+
+La vista animada es silenciosa. El MP4 conserva el sonido generado con el filtro
+2x/FIR de V0.6.
+
+[▶ Vídeo adicional: arranque original y entrada a Tetris · 10 segundos](https://github.com/NeXoDevLab/GameBoyCardputerADV/raw/refs/heads/main/docs/hardware-20261122/tetris-original-boot.mp4)
+
+La grabación de Tetris es histórica (V0.1), anterior a las mejoras actuales de
+audio. Los vídeos son capturas de la emulación; su sonido no es una grabación
+acústica del altavoz.
+
 ## Descargas V0.6
 
 - [BIN de aplicación para M5Launcher](firmware/GameBoy-CardputerADV-V0.6-app.bin).
