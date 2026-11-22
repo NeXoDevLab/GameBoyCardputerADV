@@ -19,22 +19,24 @@ de reducir a los ~32 kHz del altavoz.
 ## Capturas y vídeos
 
 Imagen y audio obtenidos por USB de la emulación ejecutada en un Cardputer ADV.
-Las versiones de cada captura están indicadas; no son fotografías del dispositivo.
+Las capturas se muestran dentro de la misma fotografía del equipo usada en los
+proyectos Amstrad y Spectrum. La pantalla procede de la emulación; el marco es
+una fotografía de producto de M5Stack. [Procedencia y originales](docs/media/README.md).
 
 | Arranque original · V0.6 | Super Chase H.Q. · V0.6 |
 | :---: | :---: |
-| <img src="docs/hardware-20261122/v06-2x-boot.png" alt="Logo Nintendo durante el arranque DMG original en V0.6" width="360"> | <img src="docs/media/superchase-v06.png" alt="Carrera de Super Chase H.Q. en V0.6" width="360"> |
+| <img src="docs/media/boot-v06-cardputer-adv.png" alt="Cardputer ADV con el logo del arranque DMG original en V0.6" width="420"> | <img src="docs/media/superchase-v06-cardputer-adv.png" alt="Cardputer ADV con Super Chase H.Q. en V0.6" width="420"> |
 | **Tetris · menú de juego y música · V0.3** | **Mario & Yoshi · partida · V0.4** |
-| <img src="docs/hardware-20261122/tetris-v03-live.png" alt="Menú de Tetris con selección del tipo de juego y música" width="360"> | <img src="docs/hardware-20261122/yoshi-v04.png" alt="Partida de Mario & Yoshi en el emulador" width="360"> |
+| <img src="docs/media/tetris-v03-cardputer-adv.png" alt="Cardputer ADV con el menú de Tetris en V0.3" width="420"> | <img src="docs/media/yoshi-v04-cardputer-adv.png" alt="Cardputer ADV con una partida de Mario & Yoshi en V0.4" width="420"> |
 
 ### Partida en movimiento · Mario & Yoshi · V0.6
 
 <p align="center">
-  <a href="docs/media/gameplay-v06.mp4">
-    <img src="docs/media/gameplay-v06.gif" alt="Mario & Yoshi en movimiento: desplazamientos de Mario, cambios de bandejas y caída de piezas" width="600">
+  <a href="docs/media/gameplay-v06-cardputer-adv.mp4">
+    <img src="docs/media/gameplay-v06-cardputer-adv.gif" alt="Cardputer ADV con Mario & Yoshi en movimiento: desplazamientos, cambios de bandejas y caída de piezas" width="800">
   </a>
   <br>
-  <a href="https://github.com/NeXoDevLab/GameBoyCardputerADV/raw/refs/heads/main/docs/media/gameplay-v06.mp4"><strong>▶ Ver o descargar el vídeo con sonido · 12 segundos</strong></a>
+  <a href="https://github.com/NeXoDevLab/GameBoyCardputerADV/raw/refs/heads/main/docs/media/gameplay-v06-cardputer-adv.mp4"><strong>▶ Ver o descargar el vídeo con sonido · 12 segundos</strong></a>
 </p>
 
 La grabación muestra una partida en marcha, con desplazamientos a izquierda y

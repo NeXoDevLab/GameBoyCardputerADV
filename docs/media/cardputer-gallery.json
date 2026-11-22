@@ -1,0 +1,65 @@
+{
+  "photograph": "M5Stack product photograph reused from the Amstrad/Spectrum galleries",
+  "photograph_source": "https://docs.m5stack.com/en/core/Cardputer-Adv",
+  "photograph_sha256": "43557534a73b2e8d71f2d2b279d134c0c01411c2d8f54960890f39d3a9f41b6f",
+  "canvas": [
+    880,
+    580
+  ],
+  "screen_rect": [
+    231,
+    54,
+    240,
+    135
+  ],
+  "note": "USB emulation captures composited into a product photograph; not a photograph of a running screen.",
+  "outputs": [
+    {
+      "source": "docs/hardware-20261122/v06-2x-boot.png",
+      "source_sha256": "14a7fc6be39d053626267a0c50adc7b266f0b655bba594a9a23578ee3e44bfa3",
+      "firmware": "V0.6",
+      "output": "boot-v06-cardputer-adv.png",
+      "sha256": "2aec776d548e612ccfbcb8bc082560f9e43687fb2a81eefbb1a48cee73240e6b"
+    },
+    {
+      "source": "docs/media/superchase-v06.png",
+      "source_sha256": "33a23c99cf746ef8f35eebcb4934d568487c570149b5733b92311c4f829fe5f6",
+      "firmware": "V0.6",
+      "output": "superchase-v06-cardputer-adv.png",
+      "sha256": "121476e7ab5cb004c8930cf19bc9c7621188f2d63f666252366e08df12e891a0"
+    },
+    {
+      "source": "docs/hardware-20261122/tetris-v03-live.png",
+      "source_sha256": "0a61210f61e4dd893a25ebe8f2f898140bfe1d5895fec937556d55b84e6f02f5",
+      "firmware": "V0.3",
+      "output": "tetris-v03-cardputer-adv.png",
+      "sha256": "e48bda5a87e404717c93a4e227e8533bcf8de0b99a939dfae789fbd48f643b38"
+    },
+    {
+      "source": "docs/hardware-20261122/yoshi-v04.png",
+      "source_sha256": "7299cadc56f9a60096144341c6e6001eb7604443db504ba68b0f49d38fa97de0",
+      "firmware": "V0.4",
+      "output": "yoshi-v04-cardputer-adv.png",
+      "sha256": "4c5685ecf08afd311b15b504a221d31a70b9e860847ce13311e694d76b3c6e05"
+    },
+    {
+      "source": "gameplay-v06.mp4",
+      "source_sha256": "6b88c23479fd5edeace0fdc2b20bd75a8c1494918a66993491f328451600ae69",
+      "firmware": "V0.6",
+      "output": "gameplay-v06-cardputer-adv.mp4",
+      "sha256": "3733be6de75bccd30a6cee1f48ca54c55ab43ce12ef9da971329e9dda7a60599",
+      "gif": "gameplay-v06-cardputer-adv.gif",
+      "gif_sha256": "c23d6f4f4cde73da4b1e40ce26239e0a3a02e714110e747a127494869425dabd",
+      "audio": "Original AAC packets copied without re-encoding",
+      "audio_packets_sha256": "90971313d137d1195223fe0892dd9deac6b2b72de9e704bd15e1ddb438d963e2"
+    }
+  ],
+  "cover": {
+    "path": "firmware/GameBoy-CardputerADV-cover.png",
+    "canvas": [
+      1280,
+      720
+    ],
+    "sha256": "bd1a1585dd1a62be8a41208b11a1bb78ecd74f1218de8d493b403b715513bb4c"
+  }
+}
